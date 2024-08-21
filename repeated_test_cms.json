@@ -1,0 +1,2786 @@
+[
+    {
+        "name": "h-tristar-austria",
+        "value": "h-tristar-austria"
+    },
+    {
+        "name": "austrian-leading-sights",
+        "value": "austrian-leading-sights"
+    },
+    {
+        "name": "h-pepper-collection",
+        "value": "h-pepper-collection"
+    },
+    {
+        "name": "db-fernverkehr",
+        "value": "db-fernverkehr"
+    },
+    {
+        "name": "schladming-dachstein-tourismus",
+        "value": "schladming-dachstein-tourismus"
+    },
+    {
+        "name": "h-best-alpine-wellness",
+        "value": "h-best-alpine-wellness"
+    },
+    {
+        "name": "liechtenstein-gruppe",
+        "value": "liechtenstein-gruppe"
+    },
+    {
+        "name": "h-carpe-solem",
+        "value": "h-carpe-solem"
+    },
+    {
+        "name": "h-top-hotel-hochgurgl",
+        "value": "h-top-hotel-hochgurgl"
+    },
+    {
+        "name": "lufthansa-nld",
+        "value": "lufthansa-nld"
+    },
+    {
+        "name": "h-sendlhof",
+        "value": "h-sendlhof"
+    },
+    {
+        "name": "h-cesta-grand-aktivhotel",
+        "value": "h-cesta-grand-aktivhotel"
+    },
+    {
+        "name": "h-triforet",
+        "value": "h-triforet"
+    },
+    {
+        "name": "h-boeglerhof",
+        "value": "h-boeglerhof"
+    },
+    {
+        "name": "h-der-engel",
+        "value": "h-der-engel"
+    },
+    {
+        "name": "central-danube",
+        "value": "central-danube"
+    },
+    {
+        "name": "h-auszeit",
+        "value": "h-auszeit"
+    },
+    {
+        "name": "h-grand-tirolia-kitzbuehel",
+        "value": "h-grand-tirolia-kitzbuehel"
+    },
+    {
+        "name": "h-boutiquehotel-stadthalle",
+        "value": "h-boutiquehotel-stadthalle"
+    },
+    {
+        "name": "bm-arbeit-wirtschaft",
+        "value": "bm-arbeit-wirtschaft"
+    },
+    {
+        "name": "h-charme-badgastein",
+        "value": "h-charme-badgastein"
+    },
+    {
+        "name": "h-steigenberger-hotels",
+        "value": "h-steigenberger-hotels"
+    },
+    {
+        "name": "h-alpin-resort-sacher-seefeld",
+        "value": "h-alpin-resort-sacher-seefeld"
+    },
+    {
+        "name": "h-celebrity-suites",
+        "value": "h-celebrity-suites"
+    },
+    {
+        "name": "ennsradweg",
+        "value": "ennsradweg"
+    },
+    {
+        "name": "h-ao-hostels",
+        "value": "h-ao-hostels"
+    },
+    {
+        "name": "urlaub-bauernhof-salzburgerland",
+        "value": "urlaub-bauernhof-salzburgerland"
+    },
+    {
+        "name": "h-arcadia",
+        "value": "h-arcadia"
+    },
+    {
+        "name": "h-dillys-wellness",
+        "value": "h-dillys-wellness"
+    },
+    {
+        "name": "urlaub-bauernhof-vorarlberg",
+        "value": "urlaub-bauernhof-vorarlberg"
+    },
+    {
+        "name": "h-berghaus-schroecken",
+        "value": "h-berghaus-schroecken"
+    },
+    {
+        "name": "spanische-hofreitschule-lipizzanergestuet-piber",
+        "value": "spanische-hofreitschule-lipizzanergestuet-piber"
+    },
+    {
+        "name": "h-greil-chalet",
+        "value": "h-greil-chalet"
+    },
+    {
+        "name": "h-imlauer",
+        "value": "h-imlauer"
+    },
+    {
+        "name": "h-steigenberger-krems",
+        "value": "h-steigenberger-krems"
+    },
+    {
+        "name": "tvb-grossarltal",
+        "value": "tvb-grossarltal"
+    },
+    {
+        "name": "grossglockner-hochalpenstrasse",
+        "value": "grossglockner-hochalpenstrasse"
+    },
+    {
+        "name": "grosse-ktn-seenschleife",
+        "value": "grosse-ktn-seenschleife"
+    },
+    {
+        "name": "innsbruck-tourismus",
+        "value": "innsbruck-tourismus"
+    },
+    {
+        "name": "h-flemings",
+        "value": "h-flemings"
+    },
+    {
+        "name": "h-melia-vie",
+        "value": "h-melia-vie"
+    },
+    {
+        "name": "vie-airport-city-conferencing-coworking",
+        "value": "vie-airport-city-conferencing-coworking"
+    },
+    {
+        "name": "doclx",
+        "value": "doclx"
+    },
+    {
+        "name": "loex-local-experience",
+        "value": "loex-local-experience"
+    },
+    {
+        "name": "h-seehotel-hoffmann",
+        "value": "h-seehotel-hoffmann"
+    },
+    {
+        "name": "h-das-seemount",
+        "value": "h-das-seemount"
+    },
+    {
+        "name": "d-luxury",
+        "value": "d-luxury"
+    },
+    {
+        "name": "tvb-kitzbueheler-alpen",
+        "value": "tvb-kitzbueheler-alpen"
+    },
+    {
+        "name": "tvb-kitzbuehel-tourismus",
+        "value": "tvb-kitzbuehel-tourismus"
+    },
+    {
+        "name": "kitzbueheler-alpen-marketing",
+        "value": "kitzbueheler-alpen-marketing"
+    },
+    {
+        "name": "allgemein-gravel",
+        "value": "allgemein-gravel"
+    },
+    {
+        "name": "h-kongresshotel-linz",
+        "value": "h-kongresshotel-linz"
+    },
+    {
+        "name": "h-austrian-hideaways",
+        "value": "h-austrian-hideaways"
+    },
+    {
+        "name": "blaguss-reisen",
+        "value": "blaguss-reisen"
+    },
+    {
+        "name": "h-bwh-central-europe",
+        "value": "h-bwh-central-europe"
+    },
+    {
+        "name": "h-gorgeous-smiling",
+        "value": "h-gorgeous-smiling"
+    },
+    {
+        "name": "wien-museum",
+        "value": "wien-museum"
+    },
+    {
+        "name": "falk-tours",
+        "value": "falk-tours"
+    },
+    {
+        "name": "h-scheiblhofer-the-resort",
+        "value": "h-scheiblhofer-the-resort"
+    },
+    {
+        "name": "h-superbude-wien-prater",
+        "value": "h-superbude-wien-prater"
+    },
+    {
+        "name": "h-galantha",
+        "value": "h-galantha"
+    },
+    {
+        "name": "big-bus-vie",
+        "value": "big-bus-vie"
+    },
+    {
+        "name": "kbb-kulturbetriebe-bgld",
+        "value": "kbb-kulturbetriebe-bgld"
+    },
+    {
+        "name": "stieglbrauerei",
+        "value": "stieglbrauerei"
+    },
+    {
+        "name": "liberty",
+        "value": "liberty"
+    },
+    {
+        "name": "flussradeln-mostviertel",
+        "value": "flussradeln-mostviertel"
+    },
+    {
+        "name": "great-trails-tirol",
+        "value": "great-trails-tirol"
+    },
+    {
+        "name": "mtb-region-steiermark",
+        "value": "mtb-region-steiermark"
+    },
+    {
+        "name": "burgenland-trails",
+        "value": "burgenland-trails"
+    },
+    {
+        "name": "region-ausserfern",
+        "value": "region-ausserfern"
+    },
+    {
+        "name": "murradweg",
+        "value": "murradweg"
+    },
+    {
+        "name": "alpe-adria-radweg",
+        "value": "alpe-adria-radweg"
+    },
+    {
+        "name": "rosalia-radweg",
+        "value": "rosalia-radweg"
+    },
+    {
+        "name": "innsbruck-airport",
+        "value": "innsbruck-airport"
+    },
+    {
+        "name": "h-schloss-duernstein",
+        "value": "h-schloss-duernstein"
+    },
+    {
+        "name": "travel-partner",
+        "value": "travel-partner"
+    },
+    {
+        "name": "h-hofgut",
+        "value": "h-hofgut"
+    },
+    {
+        "name": "schultz-gruppe-best-brands",
+        "value": "schultz-gruppe-best-brands"
+    },
+    {
+        "name": "lufthansa-usa",
+        "value": "lufthansa-usa"
+    },
+    {
+        "name": "ktm",
+        "value": "ktm"
+    },
+    {
+        "name": "h-renaissance-wien",
+        "value": "h-renaissance-wien"
+    },
+    {
+        "name": "h-schloss-leopoldskron",
+        "value": "h-schloss-leopoldskron"
+    },
+    {
+        "name": "panorama-tours-sbg",
+        "value": "panorama-tours-sbg"
+    },
+    {
+        "name": "h-realotel-w-eins",
+        "value": "h-realotel-w-eins"
+    },
+    {
+        "name": "h-courtyard-marriott-messe",
+        "value": "h-courtyard-marriott-messe"
+    },
+    {
+        "name": "h-moxy-airport",
+        "value": "h-moxy-airport"
+    },
+    {
+        "name": "h-henriette",
+        "value": "h-henriette"
+    },
+    {
+        "name": "mythos-mozart",
+        "value": "mythos-mozart"
+    },
+    {
+        "name": "mondial-wien",
+        "value": "mondial-wien"
+    },
+    {
+        "name": "melur",
+        "value": "melur"
+    },
+    {
+        "name": "h-samerhof",
+        "value": "h-samerhof"
+    },
+    {
+        "name": "wko",
+        "value": "wko"
+    },
+    {
+        "name": "lufthansa-singapur",
+        "value": "lufthansa-singapur"
+    },
+    {
+        "name": "mts-austria",
+        "value": "mts-austria"
+    },
+    {
+        "name": "h-alpin-family",
+        "value": "h-alpin-family"
+    },
+    {
+        "name": "spanische-hofreitschule-koeflach",
+        "value": "spanische-hofreitschule-koeflach"
+    },
+    {
+        "name": "epo-film",
+        "value": "epo-film"
+    },
+    {
+        "name": "flughafen-muenchen",
+        "value": "flughafen-muenchen"
+    },
+    {
+        "name": "kongresszentrum-hofburg",
+        "value": "kongresszentrum-hofburg"
+    },
+    {
+        "name": "salzburg-congress",
+        "value": "salzburg-congress"
+    },
+    {
+        "name": "h-sheraton-grand-sbg",
+        "value": "h-sheraton-grand-sbg"
+    },
+    {
+        "name": "messe-congress-graz",
+        "value": "messe-congress-graz"
+    },
+    {
+        "name": "ims-incoming",
+        "value": "ims-incoming"
+    },
+    {
+        "name": "columbus-reisen",
+        "value": "columbus-reisen"
+    },
+    {
+        "name": "skischaukel-schladming",
+        "value": "skischaukel-schladming"
+    },
+    {
+        "name": "hungry",
+        "value": "hungry"
+    },
+    {
+        "name": "tvb-oststeiermark",
+        "value": "tvb-oststeiermark"
+    },
+    {
+        "name": "ski-arlberg-west",
+        "value": "ski-arlberg-west"
+    },
+    {
+        "name": "h-kitzbuehel-schwarzsee",
+        "value": "h-kitzbuehel-schwarzsee"
+    },
+    {
+        "name": "h-brennseehof",
+        "value": "h-brennseehof"
+    },
+    {
+        "name": "h-mountain-resort-feuerberg",
+        "value": "h-mountain-resort-feuerberg"
+    },
+    {
+        "name": "h-rosewood-vienna",
+        "value": "h-rosewood-vienna"
+    },
+    {
+        "name": "congress-centrum-alpbach",
+        "value": "congress-centrum-alpbach"
+    },
+    {
+        "name": "h-almanac-palais-vienna",
+        "value": "h-almanac-palais-vienna"
+    },
+    {
+        "name": "design-center-linz",
+        "value": "design-center-linz"
+    },
+    {
+        "name": "dachstein-west",
+        "value": "dachstein-west"
+    },
+    {
+        "name": "convention-burgenland",
+        "value": "convention-burgenland"
+    },
+    {
+        "name": "h-tui-blue-at",
+        "value": "h-tui-blue-at"
+    },
+    {
+        "name": "h-vivamayr-altaussee",
+        "value": "h-vivamayr-altaussee"
+    },
+    {
+        "name": "pegasus-incoming",
+        "value": "pegasus-incoming"
+    },
+    {
+        "name": "roberto-montagna",
+        "value": "roberto-montagna"
+    },
+    {
+        "name": "h-schloss-mittersill",
+        "value": "h-schloss-mittersill"
+    },
+    {
+        "name": "almdudler",
+        "value": "almdudler"
+    },
+    {
+        "name": "schweiz-tourismus",
+        "value": "schweiz-tourismus"
+    },
+    {
+        "name": "deutsche-zentrale-tourismus",
+        "value": "deutsche-zentrale-tourismus"
+    },
+    {
+        "name": "endorphin-republic",
+        "value": "endorphin-republic"
+    },
+    {
+        "name": "h-the-amauris",
+        "value": "h-the-amauris"
+    },
+    {
+        "name": "pan-event",
+        "value": "pan-event"
+    },
+    {
+        "name": "h-biohotels",
+        "value": "h-biohotels"
+    },
+    {
+        "name": "oew",
+        "value": "oew"
+    },
+    {
+        "name": "salzburger-thermen",
+        "value": "salzburger-thermen"
+    },
+    {
+        "name": "h-kempinski-vienna",
+        "value": "h-kempinski-vienna"
+    },
+    {
+        "name": "h-imperial-austria",
+        "value": "h-imperial-austria"
+    },
+    {
+        "name": "botros",
+        "value": "botros"
+    },
+    {
+        "name": "vit-promotion",
+        "value": "vit-promotion"
+    },
+    {
+        "name": "advenio-reisen",
+        "value": "advenio-reisen"
+    },
+    {
+        "name": "uitgeverij-brandt",
+        "value": "uitgeverij-brandt"
+    },
+    {
+        "name": "internationale-bodensee-tourismus",
+        "value": "internationale-bodensee-tourismus"
+    },
+    {
+        "name": "woom",
+        "value": "woom"
+    },
+    {
+        "name": "euroscope",
+        "value": "euroscope"
+    },
+    {
+        "name": "h-alpenparks-rehrenberg",
+        "value": "h-alpenparks-rehrenberg"
+    },
+    {
+        "name": "tvb-erzberg-leoben",
+        "value": "tvb-erzberg-leoben"
+    },
+    {
+        "name": "schloss-hof",
+        "value": "schloss-hof"
+    },
+    {
+        "name": "arenaria",
+        "value": "arenaria"
+    },
+    {
+        "name": "h-edelweiss",
+        "value": "h-edelweiss"
+    },
+    {
+        "name": "h-entners-see",
+        "value": "h-entners-see"
+    },
+    {
+        "name": "h-health-spa-premium",
+        "value": "h-health-spa-premium"
+    },
+    {
+        "name": "h-falkensteiner-hotels-residences",
+        "value": "h-falkensteiner-hotels-residences"
+    },
+    {
+        "name": "h-tennerhof",
+        "value": "h-tennerhof"
+    },
+    {
+        "name": "donauradweg-ooe",
+        "value": "donauradweg-ooe"
+    },
+    {
+        "name": "donauradweg-noe",
+        "value": "donauradweg-noe"
+    },
+    {
+        "name": "iron-curtain-trail",
+        "value": "iron-curtain-trail"
+    },
+    {
+        "name": "h-lucian-oberlech",
+        "value": "h-lucian-oberlech"
+    },
+    {
+        "name": "deutsche-bahn",
+        "value": "deutsche-bahn"
+    },
+    {
+        "name": "tourismusinfo-annaberg",
+        "value": "tourismusinfo-annaberg"
+    },
+    {
+        "name": "nationalpark-hohetauern-salzburg",
+        "value": "nationalpark-hohetauern-salzburg"
+    },
+    {
+        "name": "salzburg-flughafen",
+        "value": "salzburg-flughafen"
+    },
+    {
+        "name": "h-schloss-pichlarn",
+        "value": "h-schloss-pichlarn"
+    },
+    {
+        "name": "h-der-wiesenhof",
+        "value": "h-der-wiesenhof"
+    },
+    {
+        "name": "h-the-ritz-carlton",
+        "value": "h-the-ritz-carlton"
+    },
+    {
+        "name": "h-ebners-waldhof",
+        "value": "h-ebners-waldhof"
+    },
+    {
+        "name": "tvb-lungau",
+        "value": "tvb-lungau"
+    },
+    {
+        "name": "spirit of regions",
+        "value": "spirit of regions"
+    },
+    {
+        "name": "h-retter",
+        "value": "h-retter"
+    },
+    {
+        "name": "reisefux",
+        "value": "reisefux"
+    },
+    {
+        "name": "h-land-postgut",
+        "value": "h-land-postgut"
+    },
+    {
+        "name": "h-apart-adler",
+        "value": "h-apart-adler"
+    },
+    {
+        "name": "h-zauchensee-walchhofer",
+        "value": "h-zauchensee-walchhofer"
+    },
+    {
+        "name": "h-seewirt-mattsee",
+        "value": "h-seewirt-mattsee"
+    },
+    {
+        "name": "h-krone-liegenschaft",
+        "value": "h-krone-liegenschaft"
+    },
+    {
+        "name": "h-europarcs",
+        "value": "h-europarcs"
+    },
+    {
+        "name": "h-aldiana",
+        "value": "h-aldiana"
+    },
+    {
+        "name": "h-jaeger-immobilien",
+        "value": "h-jaeger-immobilien"
+    },
+    {
+        "name": "h-scs-pyramide",
+        "value": "h-scs-pyramide"
+    },
+    {
+        "name": "h-vaya-holding",
+        "value": "h-vaya-holding"
+    },
+    {
+        "name": "h-vilavita-pannonia",
+        "value": "h-vilavita-pannonia"
+    },
+    {
+        "name": "h-villa-seilern",
+        "value": "h-villa-seilern"
+    },
+    {
+        "name": "marketing-stpoelten",
+        "value": "marketing-stpoelten"
+    },
+    {
+        "name": "h-vulkanland-legenstein",
+        "value": "h-vulkanland-legenstein"
+    },
+    {
+        "name": "alpinschule-innsbruck",
+        "value": "alpinschule-innsbruck"
+    },
+    {
+        "name": "havas-media",
+        "value": "havas-media"
+    },
+    {
+        "name": "netzwerk-kulinarik",
+        "value": "netzwerk-kulinarik"
+    },
+    {
+        "name": "tvb-schladming-dachstein",
+        "value": "tvb-schladming-dachstein"
+    },
+    {
+        "name": "tvb-thermenland-sued-oststeiermark",
+        "value": "tvb-thermenland-sued-oststeiermark"
+    },
+    {
+        "name": "tvb-thermen-vulkanland",
+        "value": "tvb-thermen-vulkanland"
+    },
+    {
+        "name": "h-aviva",
+        "value": "h-aviva"
+    },
+    {
+        "name": "h-relax-resort",
+        "value": "h-relax-resort"
+    },
+    {
+        "name": "funatravel",
+        "value": "funatravel"
+    },
+    {
+        "name": "thv-reisen",
+        "value": "thv-reisen"
+    },
+    {
+        "name": "kostrunde.com",
+        "value": "kostrunde.com"
+    },
+    {
+        "name": "salzburg-panorama-tours",
+        "value": "salzburg-panorama-tours"
+    },
+    {
+        "name": "h-seehotel-rust",
+        "value": "h-seehotel-rust"
+    },
+    {
+        "name": "wien-mozart-orchester",
+        "value": "wien-mozart-orchester"
+    },
+    {
+        "name": "supreme-concerts",
+        "value": "supreme-concerts"
+    },
+    {
+        "name": "airport-services-vie",
+        "value": "airport-services-vie"
+    },
+    {
+        "name": "radreisefreunde",
+        "value": "radreisefreunde"
+    },
+    {
+        "name": "sound-of-vienna",
+        "value": "sound-of-vienna"
+    },
+    {
+        "name": "benediktiner-stift-melk",
+        "value": "benediktiner-stift-melk"
+    },
+    {
+        "name": "mumok",
+        "value": "mumok"
+    },
+    {
+        "name": "h-forelle",
+        "value": "h-forelle"
+    },
+    {
+        "name": "h-grand-wien",
+        "value": "h-grand-wien"
+    },
+    {
+        "name": "h-loewen-schruns",
+        "value": "h-loewen-schruns"
+    },
+    {
+        "name": "lto-salzburgerland",
+        "value": "lto-salzburgerland"
+    },
+    {
+        "name": "donauradweg",
+        "value": "donauradweg"
+    },
+    {
+        "name": "touren-e-mtb",
+        "value": "touren-e-mtb"
+    },
+    {
+        "name": "gravity",
+        "value": "gravity"
+    },
+    {
+        "name": "trails",
+        "value": "trails"
+    },
+    {
+        "name": "e-bike",
+        "value": "e-bike"
+    },
+    {
+        "name": "fluesse-seen",
+        "value": "fluesse-seen"
+    },
+    {
+        "name": "kulinarik-kultur",
+        "value": "kulinarik-kultur"
+    },
+    {
+        "name": "oesterreichische-post",
+        "value": "oesterreichische-post"
+    },
+    {
+        "name": "h-bergwelt",
+        "value": "h-bergwelt"
+    },
+    {
+        "name": "tvb-region-wels",
+        "value": "tvb-region-wels"
+    },
+    {
+        "name": "h-schloss-moenchstein",
+        "value": "h-schloss-moenchstein"
+    },
+    {
+        "name": "pdm-touristik",
+        "value": "pdm-touristik"
+    },
+    {
+        "name": "h-stiebleichinger",
+        "value": "h-stiebleichinger"
+    },
+    {
+        "name": "driveaway",
+        "value": "driveaway"
+    },
+    {
+        "name": "h-landal-greenparks",
+        "value": "h-landal-greenparks"
+    },
+    {
+        "name": "h-projekt-spielberg",
+        "value": "h-projekt-spielberg"
+    },
+    {
+        "name": "h-schloss-seggau",
+        "value": "h-schloss-seggau"
+    },
+    {
+        "name": "vas-tour",
+        "value": "vas-tour"
+    },
+    {
+        "name": "h-campingpark-fisching",
+        "value": "h-campingpark-fisching"
+    },
+    {
+        "name": "h-design-simmering",
+        "value": "h-design-simmering"
+    },
+    {
+        "name": "reed-messe-wien",
+        "value": "reed-messe-wien"
+    },
+    {
+        "name": "schoenbrunner-tiergarten",
+        "value": "schoenbrunner-tiergarten"
+    },
+    {
+        "name": "kongresskultur-bregenz",
+        "value": "kongresskultur-bregenz"
+    },
+    {
+        "name": "freytag-berndt",
+        "value": "freytag-berndt"
+    },
+    {
+        "name": "cvb-salzburg",
+        "value": "cvb-salzburg"
+    },
+    {
+        "name": "tiroler-alpenbuehne-gundolf",
+        "value": "tiroler-alpenbuehne-gundolf"
+    },
+    {
+        "name": "salzkammergut-touristik",
+        "value": "salzkammergut-touristik"
+    },
+    {
+        "name": "dinner-show",
+        "value": "dinner-show"
+    },
+    {
+        "name": "tauernradweg",
+        "value": "tauernradweg"
+    },
+    {
+        "name": "mtb-nockbike-millstaettersee",
+        "value": "mtb-nockbike-millstaettersee"
+    },
+    {
+        "name": "neusiedlersee-radweg",
+        "value": "neusiedlersee-radweg"
+    },
+    {
+        "name": "mtb-olympiaregion-seefeld",
+        "value": "mtb-olympiaregion-seefeld"
+    },
+    {
+        "name": "mtb-region-achensee",
+        "value": "mtb-region-achensee"
+    },
+    {
+        "name": "innradweg",
+        "value": "innradweg"
+    },
+    {
+        "name": "mtb-schladming-dachstein",
+        "value": "mtb-schladming-dachstein"
+    },
+    {
+        "name": "mtb-salzburger-saalachtal",
+        "value": "mtb-salzburger-saalachtal"
+    },
+    {
+        "name": "mtb-stoneman-taurista",
+        "value": "mtb-stoneman-taurista"
+    },
+    {
+        "name": "mtb-region-hochkoenig",
+        "value": "mtb-region-hochkoenig"
+    },
+    {
+        "name": "mtb-saalbach-hinterglemm-leogang-fieberbrunn",
+        "value": "mtb-saalbach-hinterglemm-leogang-fieberbrunn"
+    },
+    {
+        "name": "velodrom-salzburger-seenland",
+        "value": "velodrom-salzburger-seenland"
+    },
+    {
+        "name": "iron-curtain-trail-noe",
+        "value": "iron-curtain-trail-noe"
+    },
+    {
+        "name": "traisental-radweg",
+        "value": "traisental-radweg"
+    },
+    {
+        "name": "mtb-region-wienerwald-wexltrails",
+        "value": "mtb-region-wienerwald-wexltrails"
+    },
+    {
+        "name": "mtb-region-weissensee",
+        "value": "mtb-region-weissensee"
+    },
+    {
+        "name": "mtb-bikepark-petzen",
+        "value": "mtb-bikepark-petzen"
+    },
+    {
+        "name": "drauradweg",
+        "value": "drauradweg"
+    },
+    {
+        "name": "iron-curtain-trail-bgld",
+        "value": "iron-curtain-trail-bgld"
+    },
+    {
+        "name": "suedburgenland-route",
+        "value": "suedburgenland-route"
+    },
+    {
+        "name": "rad-reisen",
+        "value": "rad-reisen"
+    },
+    {
+        "name": "h-marcati",
+        "value": "h-marcati"
+    },
+    {
+        "name": "vpg-vienna-pass",
+        "value": "vpg-vienna-pass"
+    },
+    {
+        "name": "bus-austria.at",
+        "value": "bus-austria.at"
+    },
+    {
+        "name": "h-alpinlodges-kuehtai",
+        "value": "h-alpinlodges-kuehtai"
+    },
+    {
+        "name": "h-arlberg-resort-kloesterle",
+        "value": "h-arlberg-resort-kloesterle"
+    },
+    {
+        "name": "cvb-steiermark",
+        "value": "cvb-steiermark"
+    },
+    {
+        "name": "acv",
+        "value": "acv"
+    },
+    {
+        "name": "mbn-tourismus",
+        "value": "mbn-tourismus"
+    },
+    {
+        "name": "cvb-tirol",
+        "value": "cvb-tirol"
+    },
+    {
+        "name": "h-the-kaprun-edition",
+        "value": "h-the-kaprun-edition"
+    },
+    {
+        "name": "h-sonnbichl-steinbock-st-anton",
+        "value": "h-sonnbichl-steinbock-st-anton"
+    },
+    {
+        "name": "alpbacher-bergbahn",
+        "value": "alpbacher-bergbahn"
+    },
+    {
+        "name": "tvb-oststeiermark",
+        "value": "tvb-oststeiermark"
+    },
+    {
+        "name": "tvb-suedsteiermark",
+        "value": "tvb-suedsteiermark"
+    },
+    {
+        "name": "tvb-region-graz",
+        "value": "tvb-region-graz"
+    },
+    {
+        "name": "tvb-hochsteiermark",
+        "value": "tvb-hochsteiermark"
+    },
+    {
+        "name": "h-kristiania",
+        "value": "h-kristiania"
+    },
+    {
+        "name": "h-pfandler",
+        "value": "h-pfandler"
+    },
+    {
+        "name": "h-zirbenland",
+        "value": "h-zirbenland"
+    },
+    {
+        "name": "h-familyaustria",
+        "value": "h-familyaustria"
+    },
+    {
+        "name": "noevog",
+        "value": "noevog"
+    },
+    {
+        "name": "cvb-oberoesterreich",
+        "value": "cvb-oberoesterreich"
+    },
+    {
+        "name": "h-trattlerhof",
+        "value": "h-trattlerhof"
+    },
+    {
+        "name": "h-gasthof-post-lech",
+        "value": "h-gasthof-post-lech"
+    },
+    {
+        "name": "vcb",
+        "value": "vcb"
+    },
+    {
+        "name": "kaernten-convention",
+        "value": "kaernten-convention"
+    },
+    {
+        "name": "mundivision",
+        "value": "mundivision"
+    },
+    {
+        "name": "tr-bad-hall",
+        "value": "tr-bad-hall"
+    },
+    {
+        "name": "tvb-st-johann-salzburg",
+        "value": "tvb-st-johann-salzburg"
+    },
+    {
+        "name": "h-sacher-wien",
+        "value": "h-sacher-wien"
+    },
+    {
+        "name": "mondial-baden",
+        "value": "mondial-baden"
+    },
+    {
+        "name": "wk-kaernten-tourismus",
+        "value": "wk-kaernten-tourismus"
+    },
+    {
+        "name": "h-austria-trend",
+        "value": "h-austria-trend"
+    },
+    {
+        "name": "cvb-niederoesterreich",
+        "value": "cvb-niederoesterreich"
+    },
+    {
+        "name": "saint-elmos",
+        "value": "saint-elmos"
+    },
+    {
+        "name": "congress-messe-innsbruck",
+        "value": "congress-messe-innsbruck"
+    },
+    {
+        "name": "h-arcotel",
+        "value": "h-arcotel"
+    },
+    {
+        "name": "outlet-parndorf",
+        "value": "outlet-parndorf"
+    },
+    {
+        "name": "oberhauser-consulting",
+        "value": "oberhauser-consulting"
+    },
+    {
+        "name": "strafinger",
+        "value": "strafinger"
+    },
+    {
+        "name": "oberstdorf-event",
+        "value": "oberstdorf-event"
+    },
+    {
+        "name": "cvb-innsbruck",
+        "value": "cvb-innsbruck"
+    },
+    {
+        "name": "oetztal-congress",
+        "value": "oetztal-congress"
+    },
+    {
+        "name": "wn-kultour",
+        "value": "wn-kultour"
+    },
+    {
+        "name": "h-beethoven",
+        "value": "h-beethoven"
+    },
+    {
+        "name": "h-zum-gourmet",
+        "value": "h-zum-gourmet"
+    },
+    {
+        "name": "h-zillergrund",
+        "value": "h-zillergrund"
+    },
+    {
+        "name": "h-weisses-roessl",
+        "value": "h-weisses-roessl"
+    },
+    {
+        "name": "h-walchs-rote-wand",
+        "value": "h-walchs-rote-wand"
+    },
+    {
+        "name": "h-voelserhof",
+        "value": "h-voelserhof"
+    },
+    {
+        "name": "h-dassieben",
+        "value": "h-dassieben"
+    },
+    {
+        "name": "h-vitalquelle-montafon",
+        "value": "h-vitalquelle-montafon"
+    },
+    {
+        "name": "h-vienna-marriott",
+        "value": "h-vienna-marriott"
+    },
+    {
+        "name": "h-vayaII",
+        "value": "h-vayaII"
+    },
+    {
+        "name": "h-vamed",
+        "value": "h-vamed"
+    },
+    {
+        "name": "h-valamar-obertauern",
+        "value": "h-valamar-obertauern"
+    },
+    {
+        "name": "h-charme-werfenweng",
+        "value": "h-charme-werfenweng"
+    },
+    {
+        "name": "h-charme-pertisau",
+        "value": "h-charme-pertisau"
+    },
+    {
+        "name": "h-charme-kleinwalsertal",
+        "value": "h-charme-kleinwalsertal"
+    },
+    {
+        "name": "h-charme-berlin",
+        "value": "h-charme-berlin"
+    },
+    {
+        "name": "h-therme-blumau",
+        "value": "h-therme-blumau"
+    },
+    {
+        "name": "h-theresia",
+        "value": "h-theresia"
+    },
+    {
+        "name": "h-tauernhof",
+        "value": "h-tauernhof"
+    },
+    {
+        "name": "h-steigenberger-herrenhof",
+        "value": "h-steigenberger-herrenhof"
+    },
+    {
+        "name": "h-stegerhof",
+        "value": "h-stegerhof"
+    },
+    {
+        "name": "h-stefanie",
+        "value": "h-stefanie"
+    },
+    {
+        "name": "h-stanglwirt",
+        "value": "h-stanglwirt"
+    },
+    {
+        "name": "h-st-oswald",
+        "value": "h-st-oswald"
+    },
+    {
+        "name": "h-sonnentherme-lutzmannsburg",
+        "value": "h-sonnentherme-lutzmannsburg"
+    },
+    {
+        "name": "h-sonnenschein",
+        "value": "h-sonnenschein"
+    },
+    {
+        "name": "h-sovienna",
+        "value": "h-sovienna"
+    },
+    {
+        "name": "h-sieghardsuites-mayrhofen",
+        "value": "h-sieghardsuites-mayrhofen"
+    },
+    {
+        "name": "h-sieghard",
+        "value": "h-sieghard"
+    },
+    {
+        "name": "h-schlosshotel-fiss",
+        "value": "h-schlosshotel-fiss"
+    },
+    {
+        "name": "h-schloss-fuschl",
+        "value": "h-schloss-fuschl"
+    },
+    {
+        "name": "h-sans-souci",
+        "value": "h-sans-souci"
+    },
+    {
+        "name": "h-salzburger-hof-bad-gastein",
+        "value": "h-salzburger-hof-bad-gastein"
+    },
+    {
+        "name": "h-sacher-salzburg",
+        "value": "h-sacher-salzburg"
+    },
+    {
+        "name": "h-roomz",
+        "value": "h-roomz"
+    },
+    {
+        "name": "h-ritzenhof",
+        "value": "h-ritzenhof"
+    },
+    {
+        "name": "h-rieser",
+        "value": "h-rieser"
+    },
+    {
+        "name": "h-resort-alpenrose",
+        "value": "h-resort-alpenrose"
+    },
+    {
+        "name": "h-purtscher-alpina",
+        "value": "h-purtscher-alpina"
+    },
+    {
+        "name": "h-praterstern",
+        "value": "h-praterstern"
+    },
+    {
+        "name": "h-post-lifehotel",
+        "value": "h-post-lifehotel"
+    },
+    {
+        "name": "h-post-lermoos",
+        "value": "h-post-lermoos"
+    },
+    {
+        "name": "h-pletzer-resorts",
+        "value": "h-pletzer-resorts"
+    },
+    {
+        "name": "h-planaihof",
+        "value": "h-planaihof"
+    },
+    {
+        "name": "h-pirchner-hof",
+        "value": "h-pirchner-hof"
+    },
+    {
+        "name": "h-park-hyatt",
+        "value": "h-park-hyatt"
+    },
+    {
+        "name": "h-orangerie",
+        "value": "h-orangerie"
+    },
+    {
+        "name": "h-neue-post",
+        "value": "h-neue-post"
+    },
+    {
+        "name": "h-nesslerhof",
+        "value": "h-nesslerhof"
+    },
+    {
+        "name": "h-chesa-valisa",
+        "value": "h-chesa-valisa"
+    },
+    {
+        "name": "h-naturhotel-alpenrose",
+        "value": "h-naturhotel-alpenrose"
+    },
+    {
+        "name": "h-naturel",
+        "value": "h-naturel"
+    },
+    {
+        "name": "h-nature-oetztal",
+        "value": "h-nature-oetztal"
+    },
+    {
+        "name": "h-narzissen-bad-aussee",
+        "value": "h-narzissen-bad-aussee"
+    },
+    {
+        "name": "h-nala",
+        "value": "h-nala"
+    },
+    {
+        "name": "h-mittagskogel",
+        "value": "h-mittagskogel"
+    },
+    {
+        "name": "h-rot-flueh",
+        "value": "h-rot-flueh"
+    },
+    {
+        "name": "h-laerchenhof",
+        "value": "h-laerchenhof"
+    },
+    {
+        "name": "h-kronthaler",
+        "value": "h-kronthaler"
+    },
+    {
+        "name": "h-kinderhotels",
+        "value": "h-kinderhotels"
+    },
+    {
+        "name": "h-karwendel",
+        "value": "h-karwendel"
+    },
+    {
+        "name": "h-kaernten-therme",
+        "value": "h-kaernten-therme"
+    },
+    {
+        "name": "h-jufa-oesterreich",
+        "value": "h-jufa-oesterreich"
+    },
+    {
+        "name": "h-intercontinental",
+        "value": "h-intercontinental"
+    },
+    {
+        "name": "h-interalpen",
+        "value": "h-interalpen"
+    },
+    {
+        "name": "h-weissen-roessl-wolfgangsee",
+        "value": "h-weissen-roessl-wolfgangsee"
+    },
+    {
+        "name": "h-hyatt",
+        "value": "h-hyatt"
+    },
+    {
+        "name": "h-fernblick",
+        "value": "h-fernblick"
+    },
+    {
+        "name": "h-hollmann-beletage",
+        "value": "h-hollmann-beletage"
+    },
+    {
+        "name": "h-hochkoenigin",
+        "value": "h-hochkoenigin"
+    },
+    {
+        "name": "h-hilton",
+        "value": "h-hilton"
+    },
+    {
+        "name": "h-heiltherme-bad-waltersdorf",
+        "value": "h-heiltherme-bad-waltersdorf"
+    },
+    {
+        "name": "h-harrys-home",
+        "value": "h-harrys-home"
+    },
+    {
+        "name": "h-harmonie",
+        "value": "h-harmonie"
+    },
+    {
+        "name": "h-h2o-therme",
+        "value": "h-h2o-therme"
+    },
+    {
+        "name": "h-gratz",
+        "value": "h-gratz"
+    },
+    {
+        "name": "h-stegersbach",
+        "value": "h-stegersbach"
+    },
+    {
+        "name": "h-goldried",
+        "value": "h-goldried"
+    },
+    {
+        "name": "h-goldener-hirsch",
+        "value": "h-goldener-hirsch"
+    },
+    {
+        "name": "h-gassner",
+        "value": "h-gassner"
+    },
+    {
+        "name": "h-furgler",
+        "value": "h-furgler"
+    },
+    {
+        "name": "h-fritsch",
+        "value": "h-fritsch"
+    },
+    {
+        "name": "h-forsthofgut",
+        "value": "h-forsthofgut"
+    },
+    {
+        "name": "h-fernblick-zudrell",
+        "value": "h-fernblick-zudrell"
+    },
+    {
+        "name": "h-falkensteiner-schlosshotel-velden",
+        "value": "h-falkensteiner-schlosshotel-velden"
+    },
+    {
+        "name": "h-falkensteiner",
+        "value": "h-falkensteiner"
+    },
+    {
+        "name": "h-explorer-st-johann",
+        "value": "h-explorer-st-johann"
+    },
+    {
+        "name": "h-explorer",
+        "value": "h-explorer"
+    },
+    {
+        "name": "h-ellmauhof",
+        "value": "h-ellmauhof"
+    },
+    {
+        "name": "h-dorfhotel-kirchenwirt",
+        "value": "h-dorfhotel-kirchenwirt"
+    },
+    {
+        "name": "h-dorfer",
+        "value": "h-dorfer"
+    },
+    {
+        "name": "h-crystal",
+        "value": "h-crystal"
+    },
+    {
+        "name": "h-central-soelden",
+        "value": "h-central-soelden"
+    },
+    {
+        "name": "h-bristol",
+        "value": "h-bristol"
+    },
+    {
+        "name": "h-blaue-gans",
+        "value": "h-blaue-gans"
+    },
+    {
+        "name": "h-bergparadies",
+        "value": "h-bergparadies"
+    },
+    {
+        "name": "h-avita",
+        "value": "h-avita"
+    },
+    {
+        "name": "h-asia-leoben",
+        "value": "h-asia-leoben"
+    },
+    {
+        "name": "h-asia-linsberg",
+        "value": "h-asia-linsberg"
+    },
+    {
+        "name": "h-aqua-dome",
+        "value": "h-aqua-dome"
+    },
+    {
+        "name": "h-andaz-belvedere",
+        "value": "h-andaz-belvedere"
+    },
+    {
+        "name": "h-ambassador",
+        "value": "h-ambassador"
+    },
+    {
+        "name": "h-altstadt-vienna",
+        "value": "h-altstadt-vienna"
+    },
+    {
+        "name": "h-alphotel",
+        "value": "h-alphotel"
+    },
+    {
+        "name": "h-alpenparks-seefeld",
+        "value": "h-alpenparks-seefeld"
+    },
+    {
+        "name": "h-alpenparks-hochkoenig",
+        "value": "h-alpenparks-hochkoenig"
+    },
+    {
+        "name": "h-alpenparks",
+        "value": "h-alpenparks"
+    },
+    {
+        "name": "h-alpenhof",
+        "value": "h-alpenhof"
+    },
+    {
+        "name": "h-albona",
+        "value": "h-albona"
+    },
+    {
+        "name": "h-adler-inn",
+        "value": "h-adler-inn"
+    },
+    {
+        "name": "h-alpentherme-gastein",
+        "value": "h-alpentherme-gastein"
+    },
+    {
+        "name": "sato-reisebuero",
+        "value": "sato-reisebuero"
+    },
+    {
+        "name": "stadtgemeinde-leoben",
+        "value": "stadtgemeinde-leoben"
+    },
+    {
+        "name": "tvb-nordburgenland",
+        "value": "tvb-nordburgenland"
+    },
+    {
+        "name": "sole-felsen-bad-gmuend",
+        "value": "sole-felsen-bad-gmuend"
+    },
+    {
+        "name": "therme-st-kathrein",
+        "value": "therme-st-kathrein"
+    },
+    {
+        "name": "therme-amade",
+        "value": "therme-amade"
+    },
+    {
+        "name": "therme-aqualux",
+        "value": "therme-aqualux"
+    },
+    {
+        "name": "stubay-freizeitcenter",
+        "value": "stubay-freizeitcenter"
+    },
+    {
+        "name": "atoll-achensee",
+        "value": "atoll-achensee"
+    },
+    {
+        "name": "aqua-salza",
+        "value": "aqua-salza"
+    },
+    {
+        "name": "alpentherme-ehrenberg",
+        "value": "alpentherme-ehrenberg"
+    },
+    {
+        "name": "badener-kurbetrieb",
+        "value": "badener-kurbetrieb"
+    },
+    {
+        "name": "sncf-voyages",
+        "value": "sncf-voyages"
+    },
+    {
+        "name": "freizeitzentrum-zillertal",
+        "value": "freizeitzentrum-zillertal"
+    },
+    {
+        "name": "urlaub-bauernhof-tirol",
+        "value": "urlaub-bauernhof-tirol"
+    },
+    {
+        "name": "osttirol-werbung",
+        "value": "osttirol-werbung"
+    },
+    {
+        "name": "wiener-residenzorchester",
+        "value": "wiener-residenzorchester"
+    },
+    {
+        "name": "kursalon",
+        "value": "kursalon"
+    },
+    {
+        "name": "ktm-fahrrad",
+        "value": "ktm-fahrrad"
+    },
+    {
+        "name": "salzburg-tourismus-mmgt",
+        "value": "salzburg-tourismus-mmgt"
+    },
+    {
+        "name": "wiener-konzert-event",
+        "value": "wiener-konzert-event"
+    },
+    {
+        "name": "salzburger-burgen-schloesser",
+        "value": "salzburger-burgen-schloesser"
+    },
+    {
+        "name": "schallaburg",
+        "value": "schallaburg"
+    },
+    {
+        "name": "schloss-hellbrunn",
+        "value": "schloss-hellbrunn"
+    },
+    {
+        "name": "wien-holding",
+        "value": "wien-holding"
+    },
+    {
+        "name": "tvb-murau",
+        "value": "tvb-murau"
+    },
+    {
+        "name": "mediacom",
+        "value": "mediacom"
+    },
+    {
+        "name": "innsbrucker-nordkettenbahnen",
+        "value": "innsbrucker-nordkettenbahnen"
+    },
+    {
+        "name": "imperial-austria-palaces",
+        "value": "imperial-austria-palaces"
+    },
+    {
+        "name": "eurotours",
+        "value": "eurotours"
+    },
+    {
+        "name": "europe-express-travel",
+        "value": "europe-express-travel"
+    },
+    {
+        "name": "dom-museum-wien",
+        "value": "dom-museum-wien"
+    },
+    {
+        "name": "chorherrenstift-klosterneuburg",
+        "value": "chorherrenstift-klosterneuburg"
+    },
+    {
+        "name": "chaka2",
+        "value": "chaka2"
+    },
+    {
+        "name": "bad-kleinkirchheimer-thermen",
+        "value": "bad-kleinkirchheimer-thermen"
+    },
+    {
+        "name": "bad-gasteiner-felsentherme",
+        "value": "bad-gasteiner-felsentherme"
+    },
+    {
+        "name": "andrea-stifter-touristik",
+        "value": "andrea-stifter-touristik"
+    },
+    {
+        "name": "reisebuero-hochzillertal",
+        "value": "reisebuero-hochzillertal"
+    },
+    {
+        "name": "villach-tourismus",
+        "value": "villach-tourismus"
+    },
+    {
+        "name": "mittersill-plus-tourismus",
+        "value": "mittersill-plus-tourismus"
+    },
+    {
+        "name": "skijuwel",
+        "value": "skijuwel"
+    },
+    {
+        "name": "skicircus",
+        "value": "skicircus"
+    },
+    {
+        "name": "nordica",
+        "value": "nordica"
+    },
+    {
+        "name": "eisenstadt",
+        "value": "eisenstadt"
+    },
+    {
+        "name": "salzburg-museum",
+        "value": "salzburg-museum"
+    },
+    {
+        "name": "radtouren-oe",
+        "value": "radtouren-oe"
+    },
+    {
+        "name": "grosses-welttheater",
+        "value": "grosses-welttheater"
+    },
+    {
+        "name": "tvb-bad-waltersdorf",
+        "value": "tvb-bad-waltersdorf"
+    },
+    {
+        "name": "allgemein-rad",
+        "value": "allgemein-rad"
+    },
+    {
+        "name": "allgemein",
+        "value": "allgemein"
+    },
+    {
+        "name": "allgemein-mtb",
+        "value": "allgemein-mtb"
+    },
+    {
+        "name": "allgemein-genuss",
+        "value": "allgemein-genuss"
+    },
+    {
+        "name": "naturpark-suedsteirisches-weinland",
+        "value": "naturpark-suedsteirisches-weinland"
+    },
+    {
+        "name": "tvb-st-michael-im-lungau",
+        "value": "tvb-st-michael-im-lungau"
+    },
+    {
+        "name": "salzburger-seenland-tourismus",
+        "value": "salzburger-seenland-tourismus"
+    },
+    {
+        "name": "kleine-historische-staedte",
+        "value": "kleine-historische-staedte"
+    },
+    {
+        "name": "opera-guide",
+        "value": "opera-guide"
+    },
+    {
+        "name": "mountainbike-holidays",
+        "value": "mountainbike-holidays"
+    },
+    {
+        "name": "wildkogel-arena",
+        "value": "wildkogel-arena"
+    },
+    {
+        "name": "zillertal-tourismus",
+        "value": "zillertal-tourismus"
+    },
+    {
+        "name": "zell-am-see-kaprun-tourismus",
+        "value": "zell-am-see-kaprun-tourismus"
+    },
+    {
+        "name": "woerthersee-tourismus",
+        "value": "woerthersee-tourismus"
+    },
+    {
+        "name": "tvb-wildschoenau",
+        "value": "tvb-wildschoenau"
+    },
+    {
+        "name": "tvb-wilder-kaiser",
+        "value": "tvb-wilder-kaiser"
+    },
+    {
+        "name": "wienerwald-tourismus",
+        "value": "wienerwald-tourismus"
+    },
+    {
+        "name": "wiener-riesenrad",
+        "value": "wiener-riesenrad"
+    },
+    {
+        "name": "wiener-alpen-noe-tourismus",
+        "value": "wiener-alpen-noe-tourismus"
+    },
+    {
+        "name": "lto-wien",
+        "value": "lto-wien"
+    },
+    {
+        "name": "rennradregion-wels",
+        "value": "rennradregion-wels"
+    },
+    {
+        "name": "weinviertel-tourismus",
+        "value": "weinviertel-tourismus"
+    },
+    {
+        "name": "tb-warth",
+        "value": "tb-warth"
+    },
+    {
+        "name": "tv-wanderhotels",
+        "value": "tv-wanderhotels"
+    },
+    {
+        "name": "waldviertel-tourismus",
+        "value": "waldviertel-tourismus"
+    },
+    {
+        "name": "wagrain-kleinarl-tourismus",
+        "value": "wagrain-kleinarl-tourismus"
+    },
+    {
+        "name": "lto-vorarlberg",
+        "value": "lto-vorarlberg"
+    },
+    {
+        "name": "tvb-bad-schallerbach",
+        "value": "tvb-bad-schallerbach"
+    },
+    {
+        "name": "veitsch",
+        "value": "veitsch"
+    },
+    {
+        "name": "tvb-murtal",
+        "value": "tvb-murtal"
+    },
+    {
+        "name": "urlaub-am-bauernhof",
+        "value": "urlaub-am-bauernhof"
+    },
+    {
+        "name": "tvb-tux-finkenberg",
+        "value": "tvb-tux-finkenberg"
+    },
+    {
+        "name": "tmg-turracher-hoehe",
+        "value": "tmg-turracher-hoehe"
+    },
+    {
+        "name": "stadtgemeinde-tulln",
+        "value": "stadtgemeinde-tulln"
+    },
+    {
+        "name": "tvb-kaiserwinkl",
+        "value": "tvb-kaiserwinkl"
+    },
+    {
+        "name": "tvb-tirol-west",
+        "value": "tvb-tirol-west"
+    },
+    {
+        "name": "tvb-zugspitz-arena",
+        "value": "tvb-zugspitz-arena"
+    },
+    {
+        "name": "tvb-nauders",
+        "value": "tvb-nauders"
+    },
+    {
+        "name": "tvb-tiroler-oberland",
+        "value": "tvb-tiroler-oberland"
+    },
+    {
+        "name": "tirol-mitte",
+        "value": "tirol-mitte"
+    },
+    {
+        "name": "lto-oberoesterreich",
+        "value": "lto-oberoesterreich"
+    },
+    {
+        "name": "lto-niederoesterreich",
+        "value": "lto-niederoesterreich"
+    },
+    {
+        "name": "lto-tirol",
+        "value": "lto-tirol"
+    },
+    {
+        "name": "gaesteservice-tennengau",
+        "value": "gaesteservice-tennengau"
+    },
+    {
+        "name": "tvb-tannheimer-tal",
+        "value": "tvb-tannheimer-tal"
+    },
+    {
+        "name": "swarovski",
+        "value": "swarovski"
+    },
+    {
+        "name": "tvb-stubai",
+        "value": "tvb-stubai"
+    },
+    {
+        "name": "benediktinerstift-admont",
+        "value": "benediktinerstift-admont"
+    },
+    {
+        "name": "tvb-steyr",
+        "value": "tvb-steyr"
+    },
+    {
+        "name": "lto-steiermark",
+        "value": "lto-steiermark"
+    },
+    {
+        "name": "tvb-st-ruprecht-raab",
+        "value": "tvb-st-ruprecht-raab"
+    },
+    {
+        "name": "tvb-st-anton-arlberg",
+        "value": "tvb-st-anton-arlberg"
+    },
+    {
+        "name": "sonnenplateau-mieming",
+        "value": "sonnenplateau-mieming"
+    },
+    {
+        "name": "skiwelt-wilder-kaiser-brixental",
+        "value": "skiwelt-wilder-kaiser-brixental"
+    },
+    {
+        "name": "ski-amade",
+        "value": "ski-amade"
+    },
+    {
+        "name": "silvretta-montafon",
+        "value": "silvretta-montafon"
+    },
+    {
+        "name": "tvb-silberregion-karwendel",
+        "value": "tvb-silberregion-karwendel"
+    },
+    {
+        "name": "serfaus-fiss-ladis-marketing",
+        "value": "serfaus-fiss-ladis-marketing"
+    },
+    {
+        "name": "tvb-seefeld",
+        "value": "tvb-seefeld"
+    },
+    {
+        "name": "sbb",
+        "value": "sbb"
+    },
+    {
+        "name": "schloss-schoenbrunn",
+        "value": "schloss-schoenbrunn"
+    },
+    {
+        "name": "salzkammergut-tourismus",
+        "value": "salzkammergut-tourismus"
+    },
+    {
+        "name": "salzburger-sportwelt-amade",
+        "value": "salzburger-sportwelt-amade"
+    },
+    {
+        "name": "tvb-salzburger-saalachtal",
+        "value": "tvb-salzburger-saalachtal"
+    },
+    {
+        "name": "tourismus-salzburg-stadt",
+        "value": "tourismus-salzburg-stadt"
+    },
+    {
+        "name": "saalfelden-leogang-touristik",
+        "value": "saalfelden-leogang-touristik"
+    },
+    {
+        "name": "tvb-saalbach-hinterglemm",
+        "value": "tvb-saalbach-hinterglemm"
+    },
+    {
+        "name": "tvb-riegersburg",
+        "value": "tvb-riegersburg"
+    },
+    {
+        "name": "tvb-murau",
+        "value": "tvb-murau"
+    },
+    {
+        "name": "tvb-hall-wattens",
+        "value": "tvb-hall-wattens"
+    },
+    {
+        "name": "tvb-rauris",
+        "value": "tvb-rauris"
+    },
+    {
+        "name": "tvb-radstadt",
+        "value": "tvb-radstadt"
+    },
+    {
+        "name": "pyhrn-priel-tourismus",
+        "value": "pyhrn-priel-tourismus"
+    },
+    {
+        "name": "tvb-pitztal",
+        "value": "tvb-pitztal"
+    },
+    {
+        "name": "tvb-pillerseetal",
+        "value": "tvb-pillerseetal"
+    },
+    {
+        "name": "oewm",
+        "value": "oewm"
+    },
+    {
+        "name": "oetztal-tourismus",
+        "value": "oetztal-tourismus"
+    },
+    {
+        "name": "tvb-oetscher",
+        "value": "tvb-oetscher"
+    },
+    {
+        "name": "tvb-osttirol",
+        "value": "tvb-osttirol"
+    },
+    {
+        "name": "oe-wanderdoerfer",
+        "value": "oe-wanderdoerfer"
+    },
+    {
+        "name": "tvb-obertauern",
+        "value": "tvb-obertauern"
+    },
+    {
+        "name": "ooe-touristik",
+        "value": "ooe-touristik"
+    },
+    {
+        "name": "oebb",
+        "value": "oebb"
+    },
+    {
+        "name": "oeamtc",
+        "value": "oeamtc"
+    },
+    {
+        "name": "neusiedler-see-tourismus",
+        "value": "neusiedler-see-tourismus"
+    },
+    {
+        "name": "tvb-naturpark-reutte",
+        "value": "tvb-naturpark-reutte"
+    },
+    {
+        "name": "naturpark-lechtal-reutte",
+        "value": "naturpark-lechtal-reutte"
+    },
+    {
+        "name": "nationalpark-hohetauern-tirol",
+        "value": "nationalpark-hohetauern-tirol"
+    },
+    {
+        "name": "nationalpark-hohetauern-kaernten",
+        "value": "nationalpark-hohetauern-kaernten"
+    },
+    {
+        "name": "nassfeld-pressegger-see",
+        "value": "nassfeld-pressegger-see"
+    },
+    {
+        "name": "museumsquartier",
+        "value": "museumsquartier"
+    },
+    {
+        "name": "mozarthaus",
+        "value": "mozarthaus"
+    },
+    {
+        "name": "mostviertel-tourismus",
+        "value": "mostviertel-tourismus"
+    },
+    {
+        "name": "montafon-tourismus",
+        "value": "montafon-tourismus"
+    },
+    {
+        "name": "tg-moelltaler-gletscher",
+        "value": "tg-moelltaler-gletscher"
+    },
+    {
+        "name": "mcarthurglen-designer-outlets",
+        "value": "mcarthurglen-designer-outlets"
+    },
+    {
+        "name": "tvb-mayrhofen-hippach",
+        "value": "tvb-mayrhofen-hippach"
+    },
+    {
+        "name": "tvb-mariapfarr",
+        "value": "tvb-mariapfarr"
+    },
+    {
+        "name": "manner",
+        "value": "manner"
+    },
+    {
+        "name": "mak",
+        "value": "mak"
+    },
+    {
+        "name": "tvb-maishofen",
+        "value": "tvb-maishofen"
+    },
+    {
+        "name": "tvb-linz",
+        "value": "tvb-linz"
+    },
+    {
+        "name": "lech-zuers-tourismus",
+        "value": "lech-zuers-tourismus"
+    },
+    {
+        "name": "khm",
+        "value": "khm"
+    },
+    {
+        "name": "tvb-kufsteinerland",
+        "value": "tvb-kufsteinerland"
+    },
+    {
+        "name": "klopeiner-see-suedkaernten",
+        "value": "klopeiner-see-suedkaernten"
+    },
+    {
+        "name": "kleinwalsertal-tourismus",
+        "value": "kleinwalsertal-tourismus"
+    },
+    {
+        "name": "julius-meinl",
+        "value": "julius-meinl"
+    },
+    {
+        "name": "hochkoenig-tourismus",
+        "value": "hochkoenig-tourismus"
+    },
+    {
+        "name": "tr-klagenfurt-am-woerthersee",
+        "value": "tr-klagenfurt-am-woerthersee"
+    },
+    {
+        "name": "tvb-kitzbueheler-alpen-brixental",
+        "value": "tvb-kitzbueheler-alpen-brixental"
+    },
+    {
+        "name": "tr-katschberg-rennweg",
+        "value": "tr-katschberg-rennweg"
+    },
+    {
+        "name": "lto-kaernten",
+        "value": "lto-kaernten"
+    },
+    {
+        "name": "tvb-paznaun-ischgl",
+        "value": "tvb-paznaun-ischgl"
+    },
+    {
+        "name": "intersport",
+        "value": "intersport"
+    },
+    {
+        "name": "tvb-imst-gurgltal",
+        "value": "tvb-imst-gurgltal"
+    },
+    {
+        "name": "haus-der-musik",
+        "value": "haus-der-musik"
+    },
+    {
+        "name": "tvb-groedig",
+        "value": "tvb-groedig"
+    },
+    {
+        "name": "graz-tourismus",
+        "value": "graz-tourismus"
+    },
+    {
+        "name": "goestlinger-alpen",
+        "value": "goestlinger-alpen"
+    },
+    {
+        "name": "tvb-gesaeuse",
+        "value": "tvb-gesaeuse"
+    },
+    {
+        "name": "gasteinertal-tourismus",
+        "value": "gasteinertal-tourismus"
+    },
+    {
+        "name": "fuschlsee-tourismus",
+        "value": "fuschlsee-tourismus"
+    },
+    {
+        "name": "freetour-vienna",
+        "value": "freetour-vienna"
+    },
+    {
+        "name": "flughafen-wien",
+        "value": "flughafen-wien"
+    },
+    {
+        "name": "tvb-flachau",
+        "value": "tvb-flachau"
+    },
+    {
+        "name": "tvb-traunsee-almtal",
+        "value": "tvb-traunsee-almtal"
+    },
+    {
+        "name": "ferienregion-lungau",
+        "value": "ferienregion-lungau"
+    },
+    {
+        "name": "tvb-hohe-salve",
+        "value": "tvb-hohe-salve"
+    },
+    {
+        "name": "tvb-attersee-attergau",
+        "value": "tvb-attersee-attergau"
+    },
+    {
+        "name": "tvb-feldbach",
+        "value": "tvb-feldbach"
+    },
+    {
+        "name": "familypark",
+        "value": "familypark"
+    },
+    {
+        "name": "europcar",
+        "value": "europcar"
+    },
+    {
+        "name": "tvb-eugendorf",
+        "value": "tvb-eugendorf"
+    },
+    {
+        "name": "esterhazy",
+        "value": "esterhazy"
+    },
+    {
+        "name": "tvb-erste-ferienregion-zillertal",
+        "value": "tvb-erste-ferienregion-zillertal"
+    },
+    {
+        "name": "donauturm",
+        "value": "donauturm"
+    },
+    {
+        "name": "donau-ooe-tourismus",
+        "value": "donau-ooe-tourismus"
+    },
+    {
+        "name": "donau-noe-tourismus",
+        "value": "donau-noe-tourismus"
+    },
+    {
+        "name": "tvb-inneres-salzkammergut-dachstein",
+        "value": "tvb-inneres-salzkammergut-dachstein"
+    },
+    {
+        "name": "lto-burgenland",
+        "value": "lto-burgenland"
+    },
+    {
+        "name": "bregenzerwald-tourismus",
+        "value": "bregenzerwald-tourismus"
+    },
+    {
+        "name": "bregenz-tourismus",
+        "value": "bregenz-tourismus"
+    },
+    {
+        "name": "brandnertal-tourismus",
+        "value": "brandnertal-tourismus"
+    },
+    {
+        "name": "tvb-boehmerwald",
+        "value": "tvb-boehmerwald"
+    },
+    {
+        "name": "bodensee-vorarlberg-tourismus",
+        "value": "bodensee-vorarlberg-tourismus"
+    },
+    {
+        "name": "leopold-museum",
+        "value": "leopold-museum"
+    },
+    {
+        "name": "belvedere-museum",
+        "value": "belvedere-museum"
+    },
+    {
+        "name": "stadtgemeinde-baden",
+        "value": "stadtgemeinde-baden"
+    },
+    {
+        "name": "tvb-bad-radkersburg",
+        "value": "tvb-bad-radkersburg"
+    },
+    {
+        "name": "tvb-bad-ischl",
+        "value": "tvb-bad-ischl"
+    },
+    {
+        "name": "tvb-bad-blumau",
+        "value": "tvb-bad-blumau"
+    },
+    {
+        "name": "autriche-pro-france",
+        "value": "autriche-pro-france"
+    },
+    {
+        "name": "austrian-airlines",
+        "value": "austrian-airlines"
+    },
+    {
+        "name": "tvb-ausseerland-salzkammergut",
+        "value": "tvb-ausseerland-salzkammergut"
+    },
+    {
+        "name": "arlberg-marketing",
+        "value": "arlberg-marketing"
+    },
+    {
+        "name": "ama-marketing",
+        "value": "ama-marketing"
+    },
+    {
+        "name": "tvb-altenmarkt-zauchensee",
+        "value": "tvb-altenmarkt-zauchensee"
+    },
+    {
+        "name": "alpenregion-bludenz",
+        "value": "alpenregion-bludenz"
+    },
+    {
+        "name": "tvb-alpbachtal",
+        "value": "tvb-alpbachtal"
+    },
+    {
+        "name": "tvb-almtal-salzkammergut",
+        "value": "tvb-almtal-salzkammergut"
+    },
+    {
+        "name": "albertina",
+        "value": "albertina"
+    },
+    {
+        "name": "tvb-achensee",
+        "value": "tvb-achensee"
+    },
+    {
+        "name": "tvb-abtenau",
+        "value": "tvb-abtenau"
+    },
+    {
+        "name": "h-erika-kitzbuehel",
+        "value": "h-erika-kitzbuehel"
+    },
+    {
+        "name": "house-of-strauss-zoegernitz",
+        "value": "house-of-strauss-zoegernitz"
+    },
+    {
+        "name": "h-therme-laa",
+        "value": "h-therme-laa"
+    },
+    {
+        "name": "tvb-filzmoos",
+        "value": "tvb-filzmoos"
+    },
+    {
+        "name": "h-seebad-breitenbrunn",
+        "value": "h-seebad-breitenbrunn"
+    },
+    {
+        "name": "travel-europe",
+        "value": "travel-europe"
+    },
+    {
+        "name": "heidi-horten-collection",
+        "value": "heidi-horten-collection"
+    },
+    {
+        "name": "h-gotthard",
+        "value": "h-gotthard"
+    },
+    {
+        "name": "dachstein-tourismus",
+        "value": "dachstein-tourismus"
+    },
+    {
+        "name": "kurzurlaub-shcb",
+        "value": "kurzurlaub-shcb"
+    },
+    {
+        "name": "h-arlberg",
+        "value": "h-arlberg"
+    },
+    {
+        "name": "donau-touristik",
+        "value": "donau-touristik"
+    },
+    {
+        "name": "zotter-schokolade",
+        "value": "zotter-schokolade"
+    },
+    {
+        "name": "h-gmachl-elixhausen",
+        "value": "h-gmachl-elixhausen"
+    },
+    {
+        "name": "henri-kitzbuehel",
+        "value": "henri-kitzbuehel"
+    },
+    {
+        "name": "h-a-rosa-kitzbuehel",
+        "value": "h-a-rosa-kitzbuehel"
+    },
+    {
+        "name": "deutsche-hospitality",
+        "value": "deutsche-hospitality"
+    },
+    {
+        "name": "h-benedikta",
+        "value": "h-benedikta"
+    },
+    {
+        "name": "tauern-spa-kaprun",
+        "value": "tauern-spa-kaprun"
+    },
+    {
+        "name": "wolfgangsee-tourismus",
+        "value": "wolfgangsee-tourismus"
+    },
+    {
+        "name": "urlaub-bauernhof-kaernten",
+        "value": "urlaub-bauernhof-kaernten"
+    },
+    {
+        "name": "wiener-praterverband",
+        "value": "wiener-praterverband"
+    },
+    {
+        "name": "h-schlosshotel-ischgl",
+        "value": "h-schlosshotel-ischgl"
+    },
+    {
+        "name": "traunsee-touristik",
+        "value": "traunsee-touristik"
+    },
+    {
+        "name": "h-joann-suites-apart",
+        "value": "h-joann-suites-apart"
+    },
+    {
+        "name": "h-imperial-riding-school-autograph-collection",
+        "value": "h-imperial-riding-school-autograph-collection"
+    },
+    {
+        "name": "h-grand-hotel-zell-am-see",
+        "value": "h-grand-hotel-zell-am-see"
+    },
+    {
+        "name": "h-singerstrasse-2125",
+        "value": "h-singerstrasse-2125"
+    },
+    {
+        "name": "haus-des-meeres",
+        "value": "haus-des-meeres"
+    },
+    {
+        "name": "sigmund-freud-museum",
+        "value": "sigmund-freud-museum"
+    },
+    {
+        "name": "h-kurhotel-poertschach",
+        "value": "h-kurhotel-poertschach"
+    },
+    {
+        "name": "region-murau",
+        "value": "region-murau"
+    },
+    {
+        "name": "asfinag-maut-service",
+        "value": "asfinag-maut-service"
+    },
+    {
+        "name": "h-anantara-palais-hansen-vie",
+        "value": "h-anantara-palais-hansen-vie"
+    },
+    {
+        "name": "h-arabella-jagdhof-fuschlsee",
+        "value": "h-arabella-jagdhof-fuschlsee"
+    },
+    {
+        "name": "h-neustifter",
+        "value": "h-neustifter"
+    },
+    {
+        "name": "h-roomz-prater",
+        "value": "h-roomz-prater"
+    },
+    {
+        "name": "h-hoxton-vie",
+        "value": "h-hoxton-vie"
+    },
+    {
+        "name": "thinggaard",
+        "value": "thinggaard"
+    },
+    {
+        "name": "baumkronenweg",
+        "value": "baumkronenweg"
+    },
+    {
+        "name": "concerts-austria",
+        "value": "concerts-austria"
+    },
+    {
+        "name": "h-adlers",
+        "value": "h-adlers"
+    },
+    {
+        "name": "alps2-adria-touristik",
+        "value": "alps2-adria-touristik"
+    },
+    {
+        "name": "id-frisch-astrid",
+        "value": "id-frisch-astrid"
+    },
+    {
+        "name": "juedisches-museum-wien",
+        "value": "juedisches-museum-wien"
+    },
+    {
+        "name": "h-eden",
+        "value": "h-eden"
+    },
+    {
+        "name": "area-47",
+        "value": "area-47"
+    },
+    {
+        "name": "mcarthurglen-uk",
+        "value": "mcarthurglen-uk"
+    },
+    {
+        "name": "wiener-porzellanmanufaktur-augarten",
+        "value": "wiener-porzellanmanufaktur-augarten"
+    },
+    {
+        "name": "oetztaler-gletscherbahn",
+        "value": "oetztaler-gletscherbahn"
+    },
+    {
+        "name": "pitztaler-gletscherbahn",
+        "value": "pitztaler-gletscherbahn"
+    },
+    {
+        "name": "vienna-sightseeing-tours",
+        "value": "vienna-sightseeing-tours"
+    },
+    {
+        "name": "volksoper-wien",
+        "value": "volksoper-wien"
+    },
+    {
+        "name": "h-warmbader-thermen",
+        "value": "h-warmbader-thermen"
+    },
+    {
+        "name": "bnetwork",
+        "value": "bnetwork"
+    },
+    {
+        "name": "h-golf-badtatzmannsdorf",
+        "value": "h-golf-badtatzmannsdorf"
+    },
+    {
+        "name": "kuoni-germany",
+        "value": "kuoni-germany"
+    },
+    {
+        "name": "h-loisium-langenlois",
+        "value": "h-loisium-langenlois"
+    },
+    {
+        "name": "h-mayrlife",
+        "value": "h-mayrlife"
+    },
+    {
+        "name": "ostrich-event",
+        "value": "ostrich-event"
+    },
+    {
+        "name": "riedel-austria",
+        "value": "riedel-austria"
+    },
+    {
+        "name": "h-hanneshof",
+        "value": "h-hanneshof"
+    },
+    {
+        "name": "bnetwork",
+        "value": "bnetwork"
+    },
+    {
+        "name": "h-condituz-hospitality",
+        "value": "h-condituz-hospitality"
+    },
+    {
+        "name": "h-dsr-holding",
+        "value": "h-dsr-holding"
+    },
+    {
+        "name": "h-golf-badtatzmannsdorf",
+        "value": "h-golf-badtatzmannsdorf"
+    },
+    {
+        "name": "h-henri-seefeld",
+        "value": "h-henri-seefeld"
+    },
+    {
+        "name": "kuoni-germany",
+        "value": "kuoni-germany"
+    },
+    {
+        "name": "h-larimar",
+        "value": "h-larimar"
+    },
+    {
+        "name": "h-mayrlife",
+        "value": "h-mayrlife"
+    },
+    {
+        "name": "ostrich-event",
+        "value": "ostrich-event"
+    },
+    {
+        "name": "h-sonnengarten",
+        "value": "h-sonnengarten"
+    },
+    {
+        "name": "riedel-austria",
+        "value": "riedel-austria"
+    },
+    {
+        "name": "salzwelten",
+        "value": "salzwelten"
+    },
+    {
+        "name": "h-silvretta-montafon",
+        "value": "h-silvretta-montafon"
+    },
+    {
+        "name": "h-hanneshof",
+        "value": "h-hanneshof"
+    },
+    {
+        "name": "",
+        "value": ""
+    }
+]
